@@ -1,0 +1,12 @@
+D:\DemoProject\DemoMultipartWCF\DemoMultipartWCF\bin\DemoMultipartWCF.dll.config
+D:\DemoProject\DemoMultipartWCF\DemoMultipartWCF\bin\DemoMultipartWCF.dll
+D:\DemoProject\DemoMultipartWCF\DemoMultipartWCF\bin\DemoMultipartWCF.pdb
+D:\DemoProject\DemoMultipartWCF\DemoMultipartWCF\obj\Debug\DemoMultipartWCF.csprojResolveAssemblyReference.cache
+D:\DemoProject\DemoMultipartWCF\DemoMultipartWCF\obj\Debug\DemoMultipartWCF.dll
+D:\DemoProject\DemoMultipartWCF\DemoMultipartWCF\obj\Debug\DemoMultipartWCF.pdb
+C:\Users\User\Downloads\DemoMultipartWCF1\DemoMultipartWCF\DemoMultipartWCF\bin\DemoMultipartWCF.dll.config
+C:\Users\User\Downloads\DemoMultipartWCF1\DemoMultipartWCF\DemoMultipartWCF\bin\DemoMultipartWCF.dll
+C:\Users\User\Downloads\DemoMultipartWCF1\DemoMultipartWCF\DemoMultipartWCF\bin\DemoMultipartWCF.pdb
+C:\Users\User\Downloads\DemoMultipartWCF1\DemoMultipartWCF\DemoMultipartWCF\obj\Debug\DemoMultipartWCF.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\DemoMultipartWCF1\DemoMultipartWCF\DemoMultipartWCF\obj\Debug\DemoMultipartWCF.dll
+C:\Users\User\Downloads\DemoMultipartWCF1\DemoMultipartWCF\DemoMultipartWCF\obj\Debug\DemoMultipartWCF.pdb
